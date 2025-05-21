@@ -11,5 +11,5 @@ public class PrincipalApplication {
 		SpringApplication.run(PrincipalApplication.class, args);
 		System.out.println("funciona");
 	}
-
+  //TODO https://www.devmedia.com.br/java-operadores-de-atribuicao-aritmeticos-relacionais-e-logicos/38289
 }
